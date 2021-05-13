@@ -11,4 +11,4 @@ print("vowel" if c == "a" or c == "e" or c == "i" or c == "o" or c == "u" else "
 
 #別解
 c = input()
-print("vowel" if c in "aeiou" else "cosonant")
+print("vowel" if c in "aeiou" else "consonant")
