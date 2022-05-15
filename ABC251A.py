@@ -6,3 +6,6 @@ elif l==2:
   print(s*3)
 else:
   print(s*2)
+
+#golf
+print((input()*6)[:6])
